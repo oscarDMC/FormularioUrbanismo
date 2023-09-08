@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">FormularioUrbanismo</string>
+    <string name="title_activity_form">Reportar Situación de Riesgo</string>
+    <string name="hint_descripcion">Descripción de la situación de riesgo</string>
+    <string name="hint_ubicacion">Ubicación</string>
+    <string name="btn_enviar">Enviar Reporte</string>
+
+</resources>
